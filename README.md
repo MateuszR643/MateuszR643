@@ -1,4 +1,4 @@
-<h1>Hi, I'm MateuszR643<img src="https://octodex.github.com/images/octonaut.jpg" width="500"></h1>
+<h1>Hi! <img src="https://octodex.github.com/images/octonaut.jpg" width="150"> I'm MateuszR643</h1>
 <hr>
 
 

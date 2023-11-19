@@ -1,5 +1,8 @@
 <h1>Hi! <img src="https://octodex.github.com/images/octonaut.jpg" width="50"> I'm MateuszR643</h1>
 <hr>
+<br>
+I'm studying computers in high school.
+<br>
 
 My languages:
 <br>
@@ -7,4 +10,6 @@ My languages:
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
-![HTML5](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br>
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
